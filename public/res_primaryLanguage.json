@@ -81,22 +81,18 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Amentum",
+        "title": "Field Service Engineer",
+        "years": "03.2020 - 09.2021",
         "mainTech": [
-          "Angular 8/9/10"
+          "P4"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "P4 API",
+          "TCL",
+          "Java",
+          ""
+         
         ]
       },
       {
