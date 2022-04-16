@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Anthony Hill, A Full Stack Developer. :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description": "👋 I'm Anthony Hill, A Full Stack Developer. :) I'm working with newest front-end frameworks like Bootstrap, React and Vue. What you are seeing now is  my portfolio with all my projects. If you are interested in my portfolio and what I bring to the table, message me, I'd love to bring my value to your company.  💜",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,26 +11,26 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
+        "title": "Gallery of Horns",
         "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "description": "This is a Gallery of some of my favorite horned beasts I like, Some are real, some are fictions and some are just silly. Youare able to iterate through them based on how many horns they have. as well as like your favorite ones.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/Gallery-of-horns/Goh-1.jpg",
+          "images/portfolio/Gallery-of-horns/Goh-2.jpg"
         ],
         "url": "",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-bootstrap-plain-wordmark",
+            "name": "Bootstrap"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-react-original-wordmark",
+            "name": "React"
           }
         ]
       },
@@ -81,37 +81,31 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Amentum",
+        "title": "Field Service Engineer",
+        "years": "03.2020 - 09.2021",
         "mainTech": [
-          "Angular 8/9/10"
+          "P4"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "P4 API",
+          "TCL",
+          "Java",
+          ""
+         
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Simba Enterprises",
+        "title": "Regional Manager",
+        "years": "05.2019 - 02.2020",
         "mainTech": [
           "Angular 7/8"
         ],
         "technologies": [
-          "React",
-          "Bootstrap",
-          "CSS/SCSS",
-          "JavaScript",
-          "HTML"
+          "P4 API",
+          "TCL",
+          "Java"
         ]
       }
     ]
