@@ -1,116 +1,112 @@
 {
-  "basic_info": {
-    "description_header": "Hi",
-    "description": "👋 I'm Anthony Hill, A Full Stack Developer. :) I'm working with newest front-end frameworks like Bootstrap, React and Vue. What you are seeing now is  my portfolio with all my projects. If you are interested in my portfolio and what I bring to the table, message me, I'd love to bring my value to your company.  💜",
-    "section_name": {
-      "about": "About me",
-      "projects": "Projects",
-      "skills": "Skills",
-      "experience": "Experience"
-    }
-  },
-  "projects": [
-    {
-      "title": "Gallery of Horns",
-      "startDate": "2020",
-      "description": "This is a Gallery of some of my favorite horned beasts I like, Some are real, some are fictions and some are just silly. Youare able to iterate through them based on how many horns they have. as well as like your favorite ones.",
-      "images": [
-        "images/portfolio/Gallery-of-horns/Goh-1.jpg",
-        "images/portfolio/Gallery-of-horns/Goh-2.jpg"
-      ],
-      "url": "",
-      "technologies": [
-        {
-          "class": "devicon-angularjs-plain",
-          "name": "Angular"
-        },
-        {
-          "class": "devicon-typescript-plain",
-          "name": "TypeScript"
-        },
-        {
-          "class": "devicon-csharp-plain",
-          "name": "C#"
-        }
-      ]
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 I'm Anthony Hill, A Full Stack Developer. :) I'm working with newest front-end frameworks like Bootstrap, React and Vue. What you are seeing now is  my portfolio with all my projects. If you are interested in my portfolio and what I bring to the table, message me, I'd love to bring my value to your company.  💜",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
     },
-    {
-      "title": "Photography",
-      "startDate": "2018",
-      "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
-      "images": [
-        "images/portfolio/photography/p1.jpg",
-        "images/portfolio/photography/p2.jpg"
-      ],
-      "url": "https://github.com",
-      "technologies": [
-        {
-          "class": "devicon-react-original",
-          "name": "React"
-        },
-        {
-          "class": "devicon-javascript-plain",
-          "name": "JavaScript"
-        }
-      ]
-    },
-    {
-      "title": "3D Object Viewer",
-      "startDate": "2015",
-      "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
-      "images": [
-        "images/portfolio/adventure/p1.jpg",
-        "images/portfolio/adventure/p2.jpg"
-      ],
-      "url": "https://github.com",
-      "technologies": [
-        {
-          "class": "devicon-angularjs-plain",
-          "name": "Angular"
-        },
-        {
-          "class": "devicon-typescript-plain",
-          "name": "TypeScript"
-        },
-        {
-          "class": "devicon-csharp-plain",
-          "name": "C#"
-        }
-      ]
-    }
-  ],
-  "experience": [
-    {
-      "company": "Amentum",
-      "title": "Field Service Engineer",
-      "years": "03.2020 - 09.2021",
-      "mainTech": [
-        "P4"
-      ],
-      "technologies": [
-        "P4 API",
-        "TCL",
-        "Java",
-        ""
-      ]
-    },
-    {
-      "company": "Simba Enterprises",
-      "title": "Regional Manager",
-      "years": "05.2019 - 02.2020",
-      "mainTech": [
-        "Angular 7/8"
-      ],
-      "technologies": [
-        "P4 API",
-        "TCL",
-        "Java"
-      ]
-    },
-    {
-      "company": "",
-      "title": "",
-      "years":""
-    }
-  ]
-}
+    "projects": [
+      {
+        "title": "Gallery of Horns",
+        "startDate": "2020",
+        "description": "This is a Gallery of some of my favorite horned beasts I like, Some are real, some are fictions and some are just silly. Youare able to iterate through them based on how many horns they have. as well as like your favorite ones.",
+        "images": [
+          "images/portfolio/Gallery-of-horns/Goh-1.jpg",
+          "images/portfolio/Gallery-of-horns/Goh-2.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-bootstrap-plain-wordmark",
+            "name": "Bootstrap"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-react-original-wordmark",
+            "name": "React"
+          }
+        ]
+      },
+      {
+        "title": "Photography",
+        "startDate": "2018",
+        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "images": [
+          "images/portfolio/photography/p1.jpg",
+          "images/portfolio/photography/p2.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "3D Object Viewer",
+        "startDate": "2015",
+        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "images": [
+          "images/portfolio/adventure/p1.jpg",
+          "images/portfolio/adventure/p2.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Amentum",
+        "title": "Field Service Engineer",
+        "years": "03.2020 - 09.2021",
+        "mainTech": [
+          "P4"
+        ],
+        "technologies": [
+          "P4 API",
+          "TCL",
+          "Java",
+          ""
+         
+        ]
+      },
+      {
+        "company": "Simba Enterprises",
+        "title": "Regional Manager",
+        "years": "05.2019 - 02.2020",
+        "mainTech": [
+          "Angular 7/8"
+        ],
+        "technologies": [
+          "P4 API",
+          "TCL",
+          "Java"
+        ]
+      }
+    ]
+  }
