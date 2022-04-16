@@ -37,7 +37,7 @@
       {
         "title": "City Explorer",
         "startDate": "2018",
-        "description": "A webpage that allows you to look up movies and  :)",
+        "description": "A webpage that allows you to look up movies and research weather in a city you are visiting. Will work worldwide  :)",
         "images": [
           "images/portfolio/photography/p1.jpg",
           "images/portfolio/photography/p2.jpg"
@@ -45,19 +45,23 @@
         "url": "https://github.com",
         "technologies": [
           {
-            "class": "devicon-react-original",
-            "name": "React"
+            "class": "devicon-bootstrap-plain-wordmark",
+            "name": "Bootstrap"
           },
           {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
+          },
+          {
+            "class": "devicon-react-original-wordmark",
+            "name": "React"
           }
         ]
       },
       {
-        "title": "3D Object Viewer",
+        "title": "PLaceholder",
         "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "description": "Placeholder",
         "images": [
           "images/portfolio/adventure/p1.jpg",
           "images/portfolio/adventure/p2.jpg"
