@@ -12,13 +12,13 @@
     "projects": [
       {
         "title": "Gallery of Horns",
-        "startDate": "2020",
+        "startDate": "2022",
         "description": "This is a Gallery of some of my favorite horned beasts I like, Some are real, some are fictions and some are just silly. Youare able to iterate through them based on how many horns they have. as well as like your favorite ones.",
         "images": [
           "images/portfolio/Gallery-of-horns/Goh-1.jpg",
           "images/portfolio/Gallery-of-horns/Goh-2.jpg"
         ],
-        "url": "",
+        "url": "https://goh.netlify.app/",
         "technologies": [
           {
             "class": "devicon-bootstrap-plain-wordmark",
@@ -35,9 +35,9 @@
         ]
       },
       {
-        "title": "Photography",
+        "title": "City Explorer",
         "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "description": "A webpage that allows you to look up movies and  :)",
         "images": [
           "images/portfolio/photography/p1.jpg",
           "images/portfolio/photography/p2.jpg"
