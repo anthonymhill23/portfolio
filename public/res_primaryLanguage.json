@@ -12,13 +12,13 @@
     "projects": [
       {
         "title": "Gallery of Horns",
-        "startDate": "2020",
+        "startDate": "2022",
         "description": "This is a Gallery of some of my favorite horned beasts I like, Some are real, some are fictions and some are just silly. Youare able to iterate through them based on how many horns they have. as well as like your favorite ones.",
         "images": [
           "images/portfolio/Gallery-of-horns/Goh-1.jpg",
           "images/portfolio/Gallery-of-horns/Goh-2.jpg"
         ],
-        "url": "",
+        "url": "https://goh.netlify.app/",
         "technologies": [
           {
             "class": "devicon-bootstrap-plain-wordmark",
@@ -35,9 +35,9 @@
         ]
       },
       {
-        "title": "Photography",
+        "title": "City Explorer",
         "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "description": "A webpage that allows you to look up movies and research weather in a city you are visiting. Will work worldwide  :)",
         "images": [
           "images/portfolio/photography/p1.jpg",
           "images/portfolio/photography/p2.jpg"
@@ -45,19 +45,23 @@
         "url": "https://github.com",
         "technologies": [
           {
-            "class": "devicon-react-original",
-            "name": "React"
+            "class": "devicon-bootstrap-plain-wordmark",
+            "name": "Bootstrap"
           },
           {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
+          },
+          {
+            "class": "devicon-react-original-wordmark",
+            "name": "React"
           }
         ]
       },
       {
-        "title": "3D Object Viewer",
+        "title": "PLaceholder",
         "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "description": "Placeholder",
         "images": [
           "images/portfolio/adventure/p1.jpg",
           "images/portfolio/adventure/p2.jpg"
